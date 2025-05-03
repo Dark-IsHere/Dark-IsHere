@@ -2,7 +2,7 @@
 
 ## About Me
 
-- **Upcoming High School Senior passionate about robotics and science.
+- Upcoming High School Senior passionate about robotics and science.
 - Vice President of the Spartabots Robotics Team (2976) — 2025 Worlds qualifiers
 - Experienced in **Java** & **C#**, with a focus on **robotics programming**
 - 🐱 Cat enjoyer
